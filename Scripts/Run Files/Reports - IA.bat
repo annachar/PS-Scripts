@@ -1,0 +1,2 @@
+gpg --cipher-algo AES256 --digest-algo SHA512 --default-key CAC_B2KAPCY --output "X:\Documents\CO-AML-GDPR\Central Bank\Reporting\Statistical\Submissions\08-20200430\B2Kapital Cyprus Ltd - Internal Audit Report_2019.pdf.pgp" --recipient CAC_CBC --sign --encrypt "X:\Documents\CO-AML-GDPR\Central Bank\Reporting\Statistical\Submissions\08-20200430\B2Kapital Cyprus Ltd - Internal Audit Report_2019.pdf"
+pause

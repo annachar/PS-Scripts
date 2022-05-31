@@ -1,0 +1,70 @@
+Copying files for: 20201021
+Copying files for: 20201022
+Copying files to LDE B2KCYba2__ for: 20201022
+Copying files to LDE B2KCYba2__ for: 20201022
+Copying files to LDE B2KCYba2__ for: 20201022
+Copying files to LDE B2KCYba2__ for: 20201022
+Copying files for: 20201023
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201023
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201023
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201023
+Copying files to FTP for External Partner Papasavvas: 20201024
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201024
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201024
+Copying files to FTP for External Partner Papasavvas: 20201025
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201025
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201025
+Copying files to FTP for External Partner Papasavvas: 20201026
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201026
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201026
+Copying files to FTP for External Partner Papasavvas: 20201027
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201027
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201027
+Copying files to FTP for External Partner Papasavvas: 20201028
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201028
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201028
+Copying files to FTP for External Partner Papasavvas: 20201029
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201029
+Copying files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201029
+Copying files to FTP for External Partner Papasavvas: 20201030
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201030
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201030-020322.txt succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201030-020322 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201031 succeeded
+Copying files to FTP for External Partner Papasavvas: 20201031
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201031
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201030-020322.txt succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201030-020322 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201101 succeeded
+Copying files to FTP for External Partner Papasavvas: 20201101
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201101
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201030-020322.txt succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201030-020322 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201102 succeeded
+Copying files to FTP for External Partner Papasavvas: 20201102
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201030-020322.txt succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201030-020322 succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201031-021403 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201102 succeeded
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201102
+Download files from sFTP Server Error: Exception calling "Check" with "0" argument(s): "Error listing directory '/receive/CYBOC_B2K_RECONCILIATION_'.
+No such file or directory.
+Error code: 2
+Error message from server: /Receive/CYBOC_B2K_RECONCILIATION_ does not exist"
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201103 succeeded
+Copying files to FTP for External Partner Papasavvas: 20201103
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201103-031420.TXT succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201103-031420 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201103 succeeded
+Copying files from External Partner Papasavvas to \\LDE (B2KCYba2__) for: 20201103
+Download of /receive/CYBOC_B2K_RECONCILIATION_20201104-010537.TXT succeeded
+Separation of file CYBOC_B2K_RECONCILIATION_20201104-010537 succeeded
+Moved file  to Raw\archive succeeded
+Copied files from External Partner BOC to \\LDE (B2K_Header, B2K_Details) for: 20201104 succeeded
+Copying files to FTP for External Partner Papasavvas: 20201104

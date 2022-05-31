@@ -1,0 +1,1 @@
+gpg --cipher-algo AES256 --digest-algo SHA512 --default-key CAC_B2KAPCY --output "X:\Documents\CO-AML-GDPR\Central Bank\Reporting\Statistical\Submissions\2020\MOF Decree\decree_b2kapcy_20200508.xlsx.pgp" --recipient CAC_CBC --sign --encrypt "X:\Documents\CO-AML-GDPR\Central Bank\Reporting\Statistical\Submissions\2020\MOF Decree\decree_b2kapcy_20200508.xlsx"

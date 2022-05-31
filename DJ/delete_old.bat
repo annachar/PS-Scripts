@@ -1,0 +1,1 @@
+del "\\192.168.131.13\LDEroot\LdeFiles\DJ-Full\*F.zip" /s /f /q
